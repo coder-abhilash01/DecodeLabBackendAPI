@@ -39,7 +39,7 @@ server.js
 ### Create Inquiry
 
 ```http
-POST /api/inquiry
+POST /api/inquiries
 ```
 
 ### Request Body
@@ -66,7 +66,7 @@ POST /api/inquiry
 ## Get All Inquiries
 
 ```http
-GET /api/inquiry
+GET /api/inquiries
 ```
 
 ### Success Response
